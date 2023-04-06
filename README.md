@@ -2,7 +2,7 @@
 
 ## Welcome to Myun9hyun's Github!👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myun9hyun-94&langs_count=8)](https://github.com/anuraghazra/github-readme-통계)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myun9hyun&langs_count=8)](https://github.com/anuraghazra/github-readme-통계)
 
 
 ![Myun9hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myun9hyun&show_icons=true&theme=dark)
