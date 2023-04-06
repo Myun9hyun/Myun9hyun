@@ -3,6 +3,24 @@
 ## Welcome to Myun9hyun's Github!👋
 
 
+## 💡 Technical stack experienced 
+
+<br>
+
+<p align="left">
+<a href="#">
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp;
+<a href="#">
+<img alt="Streamlit" src="https://img.shields.io/badge/streamlit%20-%23FF0000.svg?style=for-the-badge&logo=streamlit&logoColor=white"/></a> &nbsp;
+<a href="#">
+
+
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
+
+</p>
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myun9hyun&langs_count=8)](https://github.com/anuraghazra/github-readme-통계)
 
 
