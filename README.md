@@ -3,6 +3,7 @@
 ## Welcome to Myun9hyun's Github!👋
 
 
+
 ## 💡 Technical stack experienced 
 
 <br>
@@ -14,8 +15,6 @@
 <img alt="Streamlit" src="https://img.shields.io/badge/streamlit%20-%23FF0000.svg?style=for-the-badge&logo=streamlit&logoColor=white"/></a> &nbsp;
 <a href="#">
 
-
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
 
 </p>
 
