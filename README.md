@@ -2,7 +2,7 @@
 
 ## Welcome to Myun9hyun's Github!👋
 
-[![Develop_Jeans](Develop_jeans.jpeg)]
+[![Develop_Jeans](Develop_jeans.jpeg)
 
 ## 💡 Technical stack experienced 
 
