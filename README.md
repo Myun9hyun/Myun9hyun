@@ -14,7 +14,7 @@
 <a href="#">
 <img alt="Streamlit" src="https://img.shields.io/badge/streamlit%20-%23FF0000.svg?style=for-the-badge&logo=streamlit&logoColor=white"/></a> &nbsp;
 <a href="#">
-
+[![GitHub](https://badgen.net/badge/icon/github%20Myun9hyun?icon=github&label)](https://github.com/Myun9hyun)
 
 </p>
 
