@@ -21,7 +21,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myun9hyun&langs_count=8)](https://github.com/anuraghazra/github-readme-통계)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myun9hyun&langs_count=8)](https://github.com/anuraghazra/github-readme-통계) -->
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Myun9hyun&theme=moonlight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Myun9hyun&theme=moonlight)
