@@ -15,7 +15,7 @@
 <a href="#">
 <img alt="Streamlit" src="https://img.shields.io/badge/streamlit%20-%23FF0000.svg?style=for-the-badge&logo=streamlit&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img alt="JAVA" src=https://img.shields.io/badge/java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E/></a> &nbsp;
+<img alt="JAVA" src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a> &nbsp;
 <a href="#">
 
 
